@@ -20,7 +20,7 @@
       2. Open CommandInjector.zip and locate CommandInjector.dll
       3. place CommandInjector.dll in C:\Steam\steamapps\common\Borderlands 2\Binaries\Win32\Plugins
 ##   Downloading Mod
-      1. https://github.com/blacktavius/BLSuperHot/blob/master/SuperHot.zip
+      1. https://github.com/blacktavius/BLSuperHot/blob/master
       2. Download the Zip and extract the files.
       3. Run one of the .bat files for the desired game mode.
 #     Bugs
