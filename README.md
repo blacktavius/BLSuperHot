@@ -1,6 +1,6 @@
 ### [Trailer](https://discord.gg/QZfz7ze)
 # Mod Description
- This mod aims to make borderlands play like SuperHot. The mod is meant to be played with a keyboard and mouse because it takes keyboard input to slow/speed up time, so controllers wont work. The V1.0 also assumes you have not remapped movement, shooting, grenade or interact keys. The Zip contains two versions. The first is Oneshot which increases enemy damage and lowers their health so you die in one or two shots (depending on healthgate) and enemies die in one. The second mode leaves all scaling the same in the game and just adds the Super Hot mechanics. (1-Shot Works for BL2 not for BLTPS)   
+ This mod aims to make borderlands play like SuperHot. The mod is meant to be played with a keyboard and mouse because it takes keyboard input to slow/speed up time, so controllers wont work. The V1.2 also assumes you have not remapped movement, shooting, grenade or interact keys. V1.2 Allows for pausing and unpausing of the mod using the F1 Key. The Zip contains two versions. The first is Oneshot which increases enemy damage and lowers their health so you die in one or two shots (depending on healthgate) and enemies die in one. The second mode leaves all scaling the same in the game and just adds the Super Hot mechanics. (1-Shot Works for BL2 not for BLTPS). 
 # Installation
 * Below you can find instructions on installation for Borderlands 2. The same can be done for Borderlands TPS. 
 * If you have questions they can be asked in the SuperHot Channel Here. https://discord.gg/QZfz7ze
